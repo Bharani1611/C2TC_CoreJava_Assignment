@@ -56,7 +56,7 @@
 
 🔗 [**LinkedIn**](https://www.linkedin.com/in/bharani-k-10824b299)
 
-🔗[**Assignments **](https://github.com/Bharani1611/C2TC_CoreJava_Assignment.git)
+🔗[**Assignments**](https://github.com/Bharani1611/C2TC_CoreJava_Assignment.git)
 
 ---
 
