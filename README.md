@@ -18,9 +18,12 @@
 
 ## 📂 Assignment List
 
-> 🔁 This repo will be updated as I complete each assignment. Stay tuned!
-
 ### ✅ Assignment 1 – Employee Management System
+---
+>Assignment 1 – Done & Dusted. Assignment 2 dropping soon (👀 waiting on it). Repo will keep growing as new tasks land. Stay tuned!
+---
+
+> 🔁 This repo will be updated as I complete each assignment. Stay tuned!
 ---
 
 ## 📦 Packages and Structure
@@ -42,16 +45,18 @@
 
 </details>
 ---
-![image](https://github.com/user-attachments/assets/f674dc43-2f88-4d30-92bc-4a0e0e9f9c73)
-
 ## 👤 About Me
 
 **Bharani K**
 🎯 TNS India Foundation - C2TC Trainee
+
 🚀 Aspiring Software Developer | Passionate about Java & Problem Solving
+
 📫 `bharani.ai.datascience@gmail.com`
+
 🔗 [**LinkedIn**](https://www.linkedin.com/in/bharani-k-10824b299)
 
+🔗[**Assignments **](https://github.com/Bharani1611/C2TC_CoreJava_Assignment.git)
 
 ---
 
