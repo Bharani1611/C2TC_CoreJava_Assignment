@@ -16,13 +16,21 @@
 
 ---
 
-## 📂 Assignment List
+## 📚 Assignment List
 
-### ✅ Assignment 1 – Employee Management System
----
->Assignment 1 – Done & Dusted. Assignment 2 dropping soon (👀 waiting on it). Repo will keep growing as new tasks land. Stay tuned!
----
+### ✅ Assignment 1 – *Employee Management System*
+- OOP Concepts: Inheritance, Polymorphism
+- Classes: `Employee`, `Developer`, `Manager`
+- Includes: Package organization and utility methods
 
+### ✅ Assignment 2 – *Student & Commission Program*
+- Demonstrates: Default Constructor
+- Real-world scenario: Sales Commission Calculation
+- Classes: `Student`, `Commission`, `Main`
+
+### 🔃 Assignment 3 – *Coming Soon*
+> This repo is actively being updated as new assignments roll out!
+---
 > 🔁 This repo will be updated as I complete each assignment. Stay tuned!
 ---
 
@@ -33,14 +41,19 @@
 
 ```bash
 📦 src/
-┗ 📂 com.Bharani_K.Assignment_1
-┣ 📜 Employee.java
-┣ 📜 Developer.java
-┣ 📜 Manager.java
-┗ 📂 utilities
-┣ 📜 EmployeeUtilities.java
-┗ 📜 AssignmentMain.java
-
+┗ 📂 com
+   ┗ 📂 com.Bharani_K
+      ┣ 📂 com.Bharani_K.Assignment_1
+      ┃ ┣ 📜 Employee.java
+      ┃ ┣ 📜 Developer.java
+      ┃ ┣ 📜 Manager.java
+      ┃ ┗ 📂 utilities
+      ┃   ┣ 📜 EmployeeUtilities.java
+      ┃   ┗ 📜 AssignmentMain.java
+      ┗ 📂 com.Bharani_K.Assignment_2
+         ┣ 📜 Student.java
+         ┣ 📜 Commission.java
+         ┗ 📜 Main.java
 ````
 
 </details>
