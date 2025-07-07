@@ -4,9 +4,7 @@ import com.Bharani_K.Assignment_1.Employee.Manager;
 import com.Bharani_K.Assignment_1.Employee.Developer;
 import com.Bharani_K.Assignment_1.utilities.EmployeeUtilities;
 
-/**
- * Main class to demonstrate usage of packages and access modifiers.
- */
+
 public class AssignmentMain {
     public static void main(String[] args) {
 
