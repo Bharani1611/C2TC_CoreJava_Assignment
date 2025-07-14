@@ -24,7 +24,7 @@ public class Main {
                 airfare = new Indigo(hours, costPerHour);
                 break;
             default:
-                System.out.println("Invalid choice.");
+                System.out.println("Invalid choices.");
                 sc.close();
                 return;
         }
