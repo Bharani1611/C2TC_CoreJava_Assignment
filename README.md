@@ -28,7 +28,7 @@
 - Real-world scenario: Sales Commission Calculation
 - Classes: `Student`, `Commission`, `Main`
 
-### 🔃 Assignment 3 – * Banking Transaction System*
+### 🔃 Assignment 3 – *Banking Transaction System*
 
 - Fully meets assignment requirements (static, abstract, final).
 
