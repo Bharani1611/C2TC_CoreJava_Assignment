@@ -28,7 +28,7 @@
 - Real-world scenario: Sales Commission Calculation
 - Classes: `Student`, `Commission`, `Main`
 
-### 🔃 Assignment 3 – *Banking Transaction System*
+### ✅ Assignment 3 – *Banking Transaction System*
 
 - Fully meets assignment requirements (static, abstract, final).
 
@@ -36,7 +36,7 @@
 
 - Ensures shared static variables, proper abstraction, and fixed behavior using final methods
 
-### 🔃 Assignment 4 – *Airline Fare Calculation System*
+### ✅ Assignment 4 – *Airline Fare Calculation System*
 - Demonstrates interface implementation
 
 - Interface: Airfare
